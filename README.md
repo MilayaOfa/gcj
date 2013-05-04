@@ -32,4 +32,8 @@ The following is a possibly innacurate list of the problems solved
 * Tic-Tac-Toe-Tomek (`tic-tac-toe-tomek`)
 * Lawnmower (`lawnmower`)
 
+#### Round 1A
+
+* Bullseye (`bullseye`)
+
 [1]: http://code.google.com/codejam
