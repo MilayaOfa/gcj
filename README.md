@@ -36,4 +36,8 @@ The following is a possibly innacurate list of the problems solved
 
 * Bullseye (`bullseye`)
 
+#### Round 1B
+
+* Osmos (`osmos`)
+
 [1]: http://code.google.com/codejam
