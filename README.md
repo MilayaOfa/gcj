@@ -43,5 +43,6 @@ The following is a possibly innacurate list of the problems solved
 #### Round 1C
 
 * Consonants (`consonants`)
+* Pogo (`pogo`)
 
 [1]: http://code.google.com/codejam
