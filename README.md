@@ -40,4 +40,8 @@ The following is a possibly innacurate list of the problems solved
 
 * Osmos (`osmos`)
 
+#### Round 1C
+
+* Consonants (`consonants`)
+
 [1]: http://code.google.com/codejam
