@@ -17,7 +17,7 @@ compile (see section "Problems Solved" for the list of possible ids):
     $ make <problem_id>
 
 Running a compiled problem is just a matter of executing a command similar to
-the next one, replacing `tic-tac-toe-tomek` with the section and id of the desired problem:
+the next one, replacing `tic-tac-toe-tomek` with the id of the desired problem:
 
     $ ./tic-tac-toe-tomek
 
