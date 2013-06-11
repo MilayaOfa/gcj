@@ -29,20 +29,26 @@ The following is a possibly innacurate list of the problems solved
 
 #### Qualification Round
 
-* Tic-Tac-Toe-Tomek (`tic-tac-toe-tomek`)
-* Lawnmower (`lawnmower`)
+* [Tic-Tac-Toe-Tomek][tic-tac-toe-tomek] (`tic-tac-toe-tomek`)
+* [Lawnmower][lawnmower] (`lawnmower`)
 
 #### Round 1A
 
-* Bullseye (`bullseye`)
+* [Bullseye][bullseye] (`bullseye`)
 
 #### Round 1B
 
-* Osmos (`osmos`)
+* [Osmos][osmos] (`osmos`)
 
 #### Round 1C
 
-* Consonants (`consonants`)
-* Pogo (`pogo`)
+* [Consonants][consonants] (`consonants`)
+* [Pogo][pogo] (`pogo`)
 
 [1]: http://code.google.com/codejam
+[bullseye]: http://code.google.com/codejam/contest/2418487/dashboard#s=p0
+[consonants]: http://code.google.com/codejam/contest/2437488/dashboard#s=p0
+[lawnmower]: http://code.google.com/codejam/contest/2270488/dashboard#s=p1
+[osmos]: http://code.google.com/codejam/contest/2434486/dashboard#s=p0
+[pogo]: http://code.google.com/codejam/contest/2437488/dashboard#s=p1
+[tic-tac-toe-tomek]: http://code.google.com/codejam/contest/2270488/dashboard#s=p0
